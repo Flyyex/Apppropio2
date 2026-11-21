@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
   - url: EasyDelivery-Instalador.exe
-    sha512: ryDIt1noLcOIIrN2t6TWVrQNdbtLWXts/t9wIZLhnf2vwg+ZiNhUYn9QA2U7HzGMFHxRkyRpm6BHdPykHZog+w==
-    size: 81947668
+    sha512: Q/wW3rYkCYDBny++PwttiqwYFjJzVE1Tql0rwm+4fRp10R63zJN0FFpWLDXubfNO8wALXEVC5oyY+9mHKkZBRg==
+    size: 81948300
 path: EasyDelivery-Instalador.exe
-sha512: ryDIt1noLcOIIrN2t6TWVrQNdbtLWXts/t9wIZLhnf2vwg+ZiNhUYn9QA2U7HzGMFHxRkyRpm6BHdPykHZog+w==
-releaseDate: '2026-11-20T21:51:44.413Z'
+sha512: Q/wW3rYkCYDBny++PwttiqwYFjJzVE1Tql0rwm+4fRp10R63zJN0FFpWLDXubfNO8wALXEVC5oyY+9mHKkZBRg==
+releaseDate: '2026-11-21T20:53:35.948Z'
